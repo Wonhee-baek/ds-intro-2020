@@ -56,7 +56,7 @@ root: .
     - [이현탁](https://github.com/11aw1iet): [블로그](https://leehyeontak-blog.netlify.app/)/[Resume]()
 - [사응일간](https://github.com/YooGunWook/1nurse4stat)
     - [강동원](https://github.com/dw3624): [블로그]()/[Resume]() 
-    - [백원희](https://github.com/Wonhee-baek): [블로그]()/[Resume]()
+    - [백원희](https://github.com/Wonhee-baek): [블로그](https://wonheeblog.netlify.app)/[Resume](https://wonheeblog.netlify.app/2020/06/16/resume/)
     - [오태환](https://github.com/dhxoghks95): [블로그]()/[Resume]()
     - [유건욱](https://github.com/YooGunwook): [블로그]()/[Resume]()
     - [이청파](https://github.com/leechungpa): [블로그](https://leechungpa.netlify.app/)/[Resume](https://leechungpa.netlify.app/about/)
